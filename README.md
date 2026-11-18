@@ -1,6 +1,8 @@
 # gitdemo
 Employee Management System
 
+Project Status: Development Completed
+
 Developed by TechNova Solutions.
 
 Modules:
