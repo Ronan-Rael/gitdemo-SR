@@ -1,7 +1,7 @@
 # gitdemo
 Employee Management System
 
-Project Status: Testing In Progress
+Project Status: Development Completed
 
 Developed by TechNova Solutions.
 
